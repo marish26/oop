@@ -72,6 +72,7 @@ best_lector.courses = {'Java' : 11}
 
 print(best_student.grades)
 print(best_lector.courses)
+print(cool_mentor.name)
 
 print(s.__str__())
 print(m.__str__())
